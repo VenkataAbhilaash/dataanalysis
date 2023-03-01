@@ -1,0 +1,251 @@
+Rank,Title of Movie,Year of Release,IMDB Rating
+1,Planet Earth II,2016,9.4
+2,Breaking Bad,2008,9.4
+3,Planet Earth,2006,9.4
+4,Band of Brothers,2001,9.4
+5,Chernobyl,2019,9.3
+6,The Wire,2002,9.3
+7,Avatar: The Last Airbender,2005,9.2
+8,Blue Planet II,2017,9.2
+9,The Sopranos,1999,9.2
+10,Cosmos: A Spacetime Odyssey,2014,9.2
+11,Cosmos,1980,9.2
+12,Our Planet,2019,9.2
+13,Game of Thrones,2011,9.1
+14,The World at War,1973,9.1
+15,Rick and Morty,2013,9.1
+16,Fullmetal Alchemist: Brotherhood,2009,9
+17,The Last Dance,2020,9
+18,The Last of Us,2023,9
+19,Life,2009,9
+20,The Twilight Zone,1959,9
+21,Sherlock,2010,9
+22,The Vietnam War,2017,9
+23,Bluey,2018,9
+24,Batman: The Animated Series,1992,9
+25,Scam 1992: The Harshad Mehta Story,2020,8.9
+26,Arcane,2021,8.9
+27,Attack on Titan,2013,8.9
+28,The Blue Planet,2001,8.9
+29,The Office,2005,8.9
+30,Firefly,2002,8.9
+31,Human Planet,2011,8.9
+32,Frozen Planet,2011,8.9
+33,Death Note,2006,8.9
+34,Better Call Saul,2015,8.9
+35,Only Fools and Horses,1981,8.9
+36,The Civil War,1990,8.9
+37,Clarkson's Farm,2021,8.9
+38,True Detective,2014,8.9
+39,Hunter x Hunter,2011,8.9
+40,Seinfeld,1989,8.9
+41,Persona,2018,8.9
+42,The Beatles: Get Back,2021,8.9
+43,Dekalog,1989,8.9
+44,Fargo,2014,8.9
+45,Cowboy Bebop,1998,8.9
+46,Nathan for You,2013,8.8
+47,Gravity Falls,2012,8.8
+48,When They See Us,2019,8.8
+49,Last Week Tonight with John Oliver,2014,8.8
+50,Friends,1994,8.8
+51,Africa,2013,8.8
+52,TVF Pitchers,2015,8.8
+53,Apocalypse: The Second World War,2009,8.8
+54,Monty Python's Flying Circus,1969,8.8
+55,It's Always Sunny in Philadelphia,2005,8.8
+56,Taskmaster,2015,8.8
+57,Das Boot,1985,8.8
+58,The West Wing,1999,8.8
+59,Curb Your Enthusiasm,2000,8.8
+60,As If,2021,8.8
+61,Leyla and Mecnun,2011,8.8
+62,Fawlty Towers,1975,8.8
+63,Pride and Prejudice,1995,8.8
+64,Freaks and Geeks,1999,8.7
+65,Blackadder Goes Forth,1989,8.7
+66,Twin Peaks,1990,8.7
+67,BoJack Horseman,2014,8.7
+68,Black Mirror,2011,8.7
+69,Narcos,2015,8.7
+70,Succession,2018,8.7
+71,Dragon Ball Z,1989,8.7
+72,Chappelle's Show,2003,8.7
+73,One Piece,1999,8.7
+74,Dragon Ball Z,1989,8.7
+75,"I, Claudius",1976,8.7
+76,South Park,1997,8.7
+77,Over the Garden Wall,2014,8.7
+78,Rome,2005,8.7
+79,Ted Lasso,2020,8.7
+80,Six Feet Under,2001,8.7
+81,Peaky Blinders,2013,8.7
+82,Kota Factory,2019,8.7
+83,Oz,1997,8.7
+84,Dark,2017,8.7
+85,Steins;Gate,2011,8.7
+86,The Mandalorian,2019,8.7
+87,The Boys,2019,8.7
+88,Arrested Development,2003,8.7
+89,Fleabag,2016,8.7
+90,The Simpsons,1989,8.7
+91,One Punch Man,2015,8.7
+92,The Shield,2002,8.7
+93,Battlestar Galactica,2004,8.6
+94,House M.D.,2004,8.6
+95,Gullak,2019,8.6
+96,Downton Abbey,2010,8.6
+97,Panchayat,2020,8.6
+98,Stranger Things,2016,8.6
+99,Invincible,2021,8.6
+100,Severance,2022,8.6
+101,Vinland Saga,2019,8.6
+102,Mad Men,2007,8.6
+103,Peep Show,2003,8.6
+104,Sarabhai V/S Sarabhai,2004,8.6
+105,Star Trek: The Next Generation,1987,8.6
+106,The Marvelous Mrs. Maisel,2017,8.6
+107,The Adventures of Sherlock Holmes,1984,8.6
+108,Friday Night Lights,2006,8.6
+109,House of Cards,2013,8.6
+110,Berserk,1997,8.6
+111,The Grand Tour,2016,8.6
+112,Top Gear,2002,8.6
+113,1883,2021,8.6
+114,The Thick of It,2005,8.6
+115,Justice League Unlimited,2004,8.6
+116,The Crown,2016,8.6
+117,Line of Duty,2012,8.6
+118,Aspirants,2021,8.6
+119,Father Ted,1995,8.6
+120,Deadwood,2004,8.6
+121,Behzat Ç.: Bir Ankara Polisiyesi,2010,8.6
+122,Mahabharat,1988,8.6
+123,Parks and Recreation,2009,8.6
+124,This Is Us,2016,8.6
+125,The X-Files,1993,8.6
+126,Dexter,2006,8.6
+127,Atlanta,2016,8.6
+128,The Jinx: The Life and Deaths of Robert Durst,2015,8.6
+129,Naruto: Shippuden,2007,8.6
+130,Code Geass,2006,8.6
+131,Primal,2019,8.6
+132,Blackadder II,1986,8.6
+133,The Bridge,2011,8.6
+134,Daredevil,2015,8.6
+135,It's a Sin,2021,8.6
+136,Critical Role,2015,8.6
+137,Monster,2004,8.6
+138,Archer,2009,8.6
+139,Lonesome Dove,1989,8.6
+140,Demon Slayer: Kimetsu no Yaiba,2019,8.6
+141,Adventure Time,2010,8.6
+142,Ramayan,1987,8.6
+143,Mystery Science Theater 3000,1988,8.6
+144,The Return of Sherlock Holmes,1986,8.6
+145,Gomorrah,2014,8.6
+146,Mindhunter,2017,8.6
+147,Yeh Meri Family,2018,8.6
+148,Yellowstone,2018,8.5
+149,Young Justice,2010,8.5
+150,Blackadder the Third,1987,8.5
+151,Heartstopper,2022,8.5
+152,Bleach: Thousand-Year Blood War,2022,8.5
+153,Haikyu!!,2014,8.5
+154,QI,2003,8.5
+155,Dopesick,2021,8.5
+156,Mr. Bean,1990,8.5
+157,Anne with an E,2017,8.5
+158,The Offer,2022,8.5
+159,Poirot,1989,8.5
+160,Yes Minister,1980,8.5
+161,Making a Murderer,2015,8.5
+162,Boardwalk Empire,2010,8.5
+163,Justified,2010,8.5
+164,Pose,2018,8.5
+165,The Newsroom,2012,8.5
+166,The Bugs Bunny Show,1960,8.5
+167,The Haunting of Hill House,2018,8.5
+168,Crash Landing on You,2019,8.5
+169,The Eric Andre Show,2012,8.5
+170,The Queen's Gambit,2020,8.5
+171,Justice League,2001,8.5
+172,Dragon Ball,1986,8.5
+173,Flight of the Conchords,2007,8.5
+174,Homicide: Life on the Street,1993,8.5
+175,Dragon Ball,1995,8.5
+176,Formula 1: Drive to Survive,2019,8.5
+177,Impractical Jokers,2011,8.5
+178,Battlestar Galactica,2003,8.5
+179,El Chavo del Ocho,1972,8.5
+180,The Venture Bros.,2003,8.5
+181,Coupling,2000,8.5
+182,The Bureau,2015,8.5
+183,Spaced,1999,8.5
+184,Long Way Round,2004,8.5
+185,The Rehearsal,2022,8.5
+186,What We Do in the Shadows,2019,8.5
+187,Black Sun,2017,8.5
+188,"Yes, Prime Minister",1986,8.5
+189,Samurai Champloo,2004,8.5
+190,The IT Crowd,2006,8.5
+191,Mr. Robot,2015,8.5
+192,Louie,2010,8.5
+193,I'm Alan Partridge,1997,8.5
+194,The Family Man,2019,8.5
+195,The Office,2001,8.5
+196,Whose Line Is It Anyway?,1998,8.5
+197,Through the Wormhole,2010,8.5
+198,Letterkenny,2016,8.5
+199,Samurai Jack,2001,8.5
+200,Shameless,2011,8.5
+201,Spartacus,2010,8.5
+202,Detectorists,2014,8.5
+203,Ezel,2009,8.5
+204,Mob Psycho 100,2016,8.5
+205,Sons of Anarchy,2008,8.5
+206,Westworld,2016,8.5
+207,Endeavour,2012,8.5
+208,Brass Eye,1997,8.5
+209,Neon Genesis Evangelion,1995,8.5
+210,Extraordinary Attorney Woo,2022,8.5
+211,Skam,2015,8.5
+212,North & South,2004,8.5
+213,Trailer Park Boys,2001,8.5
+214,Doctor Who,2005,8.5
+215,Fullmetal Alchemist,2003,8.5
+216,Twin Peaks,2017,8.5
+217,Silicon Valley,2014,8.5
+218,Spartacus: Gods of the Arena,2011,8.5
+219,From the Earth to the Moon,1998,8.5
+220,Futurama,1999,8.5
+221,Rurouni Kenshin: Trust and Betrayal,1999,8.5
+222,Mr Inbetween,2018,8.5
+223,Happy Valley,2014,8.4
+224,Schitt's Creek,2015,8.4
+225,Hannibal,2013,8.4
+226,Umbre,2014,8.4
+227,The Expanse,2015,8.4
+228,Community,2009,8.4
+229,Jujutsu Kaisen,2020,8.4
+230,Regular Show,2009,8.4
+231,Cobra Kai,2018,8.4
+232,Chef's Table,2015,8.4
+233,Generation Kill,2008,8.4
+234,My Brilliant Friend,2018,8.4
+235,The Angry Video Game Nerd,2004,8.4
+236,Wentworth,2013,8.4
+237,The Night Of,2016,8.4
+238,Derry Girls,2018,8.4
+239,Alfred Hitchcock Presents,1955,8.4
+240,Your Lie in April,2014,8.4
+241,Avrupa Yakasi,2004,8.4
+242,Big Little Lies,2017,8.4
+243,Southland,2009,8.4
+244,The Knick,2014,8.4
+245,House of the Dragon,2022,8.4
+246,Black Books,2000,8.4
+247,The Great British Baking Show,2010,8.4
+248,Gintama,2005,8.4
+249,Foyle's War,2002,8.4
+250,The Defiant Ones,2017,8.4
